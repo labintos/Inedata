@@ -69,7 +69,7 @@ def organize_images_by_cluster(labels, image_paths, output_dir='clusters'):
                 os.rename(img_path, os.path.join(cluster_dir, img_name))
 
 # メイン処理部分
-API_KEY = '43325714-a1d4af49a900515c8c7bf39c5'
+API_KEY = 
 query = 'wheat field'
 max_images = 500
 
